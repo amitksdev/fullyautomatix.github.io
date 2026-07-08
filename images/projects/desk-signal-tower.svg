@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="t d">
+  <title id="t">Desk Signal Tower mock image</title>
+  <desc id="d">Synthetic illustration of a three-color desk status tower</desc>
+  <rect width="1200" height="620" fill="#111a17"/>
+  <rect x="120" y="70" width="960" height="480" rx="24" fill="#1d2a26" stroke="#46685a" stroke-width="4"/>
+  <rect x="530" y="140" width="140" height="300" rx="22" fill="#0f1512" stroke="#3f5a4c" stroke-width="4"/>
+  <circle cx="600" cy="200" r="38" fill="#ff6f59"/>
+  <circle cx="600" cy="290" r="38" fill="#f9c80e"/>
+  <circle cx="600" cy="380" r="38" fill="#00c2a8"/>
+  <rect x="500" y="440" width="200" height="42" rx="12" fill="#2b3e36"/>
+  <path d="M300 200h180M300 290h180M300 380h180" stroke="#00c2a8" stroke-width="8"/>
+  <path d="M720 200h180M720 290h180M720 380h180" stroke="#f9c80e" stroke-width="8"/>
+  <text x="140" y="530" fill="#f6f8f7" font-size="48" font-family="IBM Plex Mono, monospace">DESK SIGNAL TOWER</text>
+</svg>

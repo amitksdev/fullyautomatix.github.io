@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 620" role="img" aria-labelledby="t d">
+  <title id="t">Retro VU Meter mock image</title>
+  <desc id="d">Synthetic illustration of a retro style stereo VU meter panel</desc>
+  <rect width="1200" height="620" fill="#101615"/>
+  <rect x="90" y="90" width="1020" height="440" rx="26" fill="#21302a" stroke="#3f5a4c" stroke-width="4"/>
+  <rect x="150" y="170" width="420" height="220" rx="20" fill="#f7e7b8" stroke="#9d8350" stroke-width="5"/>
+  <path d="M190 340q170-170 340 0" stroke="#7f6640" stroke-width="6" fill="none"/>
+  <line x1="360" y1="340" x2="300" y2="210" stroke="#ff6f59" stroke-width="8"/>
+  <rect x="630" y="170" width="420" height="220" rx="20" fill="#f7e7b8" stroke="#9d8350" stroke-width="5"/>
+  <path d="M670 340q170-170 340 0" stroke="#7f6640" stroke-width="6" fill="none"/>
+  <line x1="840" y1="340" x2="910" y2="215" stroke="#00c2a8" stroke-width="8"/>
+  <text x="120" y="505" fill="#f6f8f7" font-size="48" font-family="IBM Plex Mono, monospace">RETRO VU METER</text>
+</svg>
