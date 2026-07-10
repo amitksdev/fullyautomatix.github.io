@@ -91,6 +91,34 @@ description: >-
     </div>
   </section>
 
+  <section id="gear" class="section reveal">
+    <div class="section-head">
+      <p class="kicker">Favorite Gear</p>
+      <h2>Tools & Components That Actually Get Used</h2>
+      <p>
+        The gear, modules, and tools that show up in nearly every project — picked for reliability,
+        affordability, and getting the job done without fuss.
+      </p>
+    </div>
+    <div class="gear-gallery">
+      {% for item in site.data.recos %}
+      <article class="gear-card">
+        {% if item.image %}
+        <div class="gear-image">
+          <img src="{{ item.image | relative_url }}" alt="{{ item.title }}" />
+        </div>
+        {% endif %}
+        <div class="gear-content">
+          <span class="gear-category">{{ item.category }}</span>
+          <h3><a href="{{ item.url | relative_url }}">{{ item.title }}</a></h3>
+          <p>{{ item.description }}</p>
+          <p class="meta">{{ item.meta }}</p>
+        </div>
+      </article>
+      {% endfor %}
+    </div>
+  </section>
+
   <section id="resources" class="section join reveal">
     <div>
       <p class="kicker">Resources</p>

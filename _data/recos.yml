@@ -1,0 +1,53 @@
+- title: Pinecil Soldering Iron
+  url: /recos/pinecil-soldering-iron.html
+  image: /images/recos/pinecil.jpg
+  description: >-
+    USB-C powered soldering iron with precision temperature control and open-source firmware.
+    Rapid heat-up, portable, and incredibly affordable.
+  meta: "USB-C PD • IronOS • TS100 Tips • $25-35"
+  category: "Tools"
+
+- title: ESP8266 D1 Mini
+  url: /recos/esp8266-d1-mini.html
+  image: /images/recos/esp8266-d1-mini.jpg
+  description: >-
+    Tiny WiFi microcontroller board with Arduino compatibility. Perfect for IoT projects,
+    home automation, and sensor networks.
+  meta: "WiFi • Arduino IDE • 11 GPIO • $2-4"
+  category: "Microcontrollers"
+
+- title: Wireless Dremel
+  url: /recos/wireless-dremel.html
+  image: /images/recos/wireless-dremel.jpg
+  description: >-
+    Cordless rotary tool for cutting, drilling, and finishing 3D-printed enclosures.
+    Freedom from power cords makes all the difference.
+  meta: "Cordless • Variable Speed • Multi-Tool • $80-150"
+  category: "Tools"
+
+- title: XL4015 CC/CV Module
+  url: /recos/xl4015-cc-cv-module.html
+  image: /images/recos/xl4015-module.jpg
+  description: >-
+    Buck converter with constant-current and constant-voltage modes. Perfect for battery
+    charging, LED drivers, and bench power supplies.
+  meta: "5A Output • CC/CV • 96% Efficient • $1-2"
+  category: "Power"
+
+- title: XL6019 Boost Converter
+  url: /recos/xl6019-boost-converter.html
+  image: /images/recos/xl6019-module.jpg
+  description: >-
+    High-efficiency boost converter for stepping up voltage. Run 12V devices from USB
+    power banks or batteries.
+  meta: "4A Output • 3-32V Input • 94% Efficient • $1-2"
+  category: "Power"
+
+- title: Mini360 Buck Converter
+  url: /recos/mini360-buck-converter.html
+  image: /images/recos/mini360-module.jpg
+  description: >-
+    Ultra-compact step-down converter that fits anywhere. High efficiency and adjustable
+    output in a tiny package.
+  meta: "1.8A Output • 17×11mm • 96% Efficient • $0.50-1"
+  category: "Power"
